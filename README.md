@@ -1,4 +1,7 @@
 # TCM Herb Quiz
 
-A small python CLI quiz app to help study Cold Release the Exterior herbs while practicing Python programming. 
+A small Python CLI quiz app for reviewing Cold Release the Exterior herbs while practicing Python programming. 
+
+Run with:
+python3 tcm_herb_quiz.py
 
